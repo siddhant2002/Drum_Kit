@@ -10,7 +10,7 @@ function chopa(e)
     audio.currentTime=0;
     audio.play();
     key.classList.add('playing'); 
-};
+}
 
 function remove(e)
 {
