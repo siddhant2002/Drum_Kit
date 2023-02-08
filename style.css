@@ -38,3 +38,9 @@ kbd
     flex: 1;
     min-height: 100vh;
 }
+.playing
+{
+    transform: scale(1.1);
+    border-color: yellow;
+    box-shadow: 2px;
+}
