@@ -1,0 +1,15 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    background:url('/images/pic1.webp');
+}
+h1
+{
+    background-color: bisque;
+}
+p
+{
+    background-color: yellow;
+}
